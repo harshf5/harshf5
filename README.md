@@ -1,5 +1,5 @@
 
- 👋 **>Hi, I’m Harsh Vardhan Raj**  , a Data Enthusiast with over 3 years of experience specializing in both Data Science and Data Engineering. My expertise lies in building end-to-end data pipelines, designing scalable data systems, and developing machine learning models that solve real-world problems.
+ 👋 **Hi, I’m Harsh Vardhan Raj**  , a Data Enthusiast with over 3 years of experience specializing in both Data Science and Data Engineering. My expertise lies in building end-to-end data pipelines, designing scalable data systems, and developing machine learning models that solve real-world problems.
 
 ## What I Bring to the Table
 ## Data Engineering Expertise:
@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 
 ## My LeetCode Stats
 
-**LeetCode Profile Stats:**
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh_f5?theme=dark&font=Roboto%20Mono&ext=heatmap)
