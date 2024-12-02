@@ -1,12 +1,15 @@
 
-** 👋 Hi, I’m [Your Name] ** , a Data Enthusiast with over 3 years of experience specializing in both Data Science and Data Engineering. My expertise lies in building end-to-end data pipelines, designing scalable data systems, and developing machine learning models that solve real-world problems.
+## 👋 Hi, I’m [Your Name]  , a Data Enthusiast with over 3 years of experience specializing in both Data Science and Data Engineering. My expertise lies in building end-to-end data pipelines, designing scalable data systems, and developing machine learning models that solve real-world problems.
 
 ## What I Bring to the Table
 ## Data Engineering Expertise:
 🔧 Proficient in building robust ETL pipelines, data warehouses, and cloud-based solutions.
+
 🛠️ Hands-on experience with tools like Apache Spark, Airflow, and SQL for efficient data processing.
+
 ## Data Science Skills:
 📊 Strong background in machine learning, predictive modeling, and statistical analysis.
+
 🤖 Skilled in Python, TensorFlow, and scikit-learn for developing and deploying AI solutions.
 ## What Drives Me
 💡  I am passionate about transforming raw data into impactful insights. I enjoy bridging Data Engineering and Data Science by designing scalable pipelines and enabling advanced analytics.
