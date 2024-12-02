@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshf5&hide=contribs,prs)
 
+## My LeetCode Stats
 
+**LeetCode Profile Stats:**
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh_f5?theme=dark&font=Roboto%20Mono&ext=heatmap)
