@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshf5&hide=contribs,prs)
 
-![Leetcode Stats](https://![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh_f5?theme=dark&font=Roboto%20Mono&ext=heatmap))
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh_f5?theme=dark&font=Roboto%20Mono&ext=heatmap)
