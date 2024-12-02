@@ -5,7 +5,10 @@
 ## Data Engineering Expertise:
 🔧 Proficient in building robust ETL pipelines, data warehouses, and cloud-based solutions.
 
-🛠️ Hands-on experience with tools like Apache Spark, Airflow, and SQL for efficient data processing.
+🔧 Extensive experience in building distributed data pipelines using PySpark, Hadoop, and SQL.
+
+🛠️ Skilled in implementing ETL processes for efficient data extraction, transformation, and loading at scale.
+
 
 ## Data Science Skills:
 📊 Strong background in machine learning, predictive modeling, and statistical analysis.
